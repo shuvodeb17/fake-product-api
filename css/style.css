@@ -1,0 +1,13 @@
+.row.row-cols-1.row-cols-md-2.g-4 {
+  margin-bottom: 4rem;
+}
+.col {
+  margin: auto;
+}
+img.card-img-top {
+  height: 278px;
+  width: 100%;
+}
+h2.card-title {
+  color: #198754;
+}
